@@ -17,7 +17,7 @@ My Graduate Thesis project work co-operate with Chika Corporation 智家 (チカ
 
 ![image](https://user-images.githubusercontent.com/48848418/72683184-a8249100-3b07-11ea-97ea-71700537be0d.png)
 
-![Devices_system_diagram](https://user-images.githubusercontent.com/48848418/76861317-fdbeb500-688e-11ea-8b7e-446db28426eb.png)
+![System](https://user-images.githubusercontent.com/48848418/81785172-2c23de00-9528-11ea-89b2-feb7c0e8546c.png)
 
 ⚙️ My first sample product - CA-SWW2 💎
 
