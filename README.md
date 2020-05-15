@@ -19,7 +19,7 @@ My Graduate Thesis project work co-operate with Chika Corporation 智家 (チカ
 
 ![System](https://user-images.githubusercontent.com/48848418/81785172-2c23de00-9528-11ea-89b2-feb7c0e8546c.png)
 
-⚙️ My first sample product - CA-SWW2 💎
+⚙️ My sample of product - CA-IRX 💎
 
 ![diode-1](https://user-images.githubusercontent.com/48848418/78677320-cda88600-7911-11ea-9445-356654877c95.jpg)
 
